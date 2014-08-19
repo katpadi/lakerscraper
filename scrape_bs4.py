@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """
-Extracting
+Extracting using BeautifulSoup and requests
 
 Assumption:
 http://doc.scrapy.org/en/latest/topics/ubuntu.html#topics-ubuntu
